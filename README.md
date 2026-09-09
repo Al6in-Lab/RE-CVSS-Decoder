@@ -61,7 +61,7 @@ No third-party packages or external dependencies required.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Al6in-Lab/RE-CVSS-Decoder
    cd RE-CVSS-Decoder
    ```
 2. Run the tool natively using Python 3:
