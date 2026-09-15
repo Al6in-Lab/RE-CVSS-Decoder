@@ -66,7 +66,7 @@ No third-party packages or external dependencies required.
    ```
 2. Run the tool natively using Python 3:
    ```bash
-   python re_decoder.py
+   python RE.py
    ```
 
 ## ⚙️ Optional: System Shortcut Setup (Quality of Life)
